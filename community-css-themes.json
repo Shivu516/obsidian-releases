@@ -551,6 +551,13 @@
     "screenshot": "assets/obsidian-store-header.png",
     "modes": ["light", "dark"]
   },
+{
+  "name": "Primidian",
+  "author": "Shivu516",
+  "repo": "Shivu516/Primidian",
+  "screenshot": "assets/images/Primidian_Banner_smol.png",
+  "modes": ["light", "dark"]
+},
   {
     "name": "Terminal",
     "author": "zcysxy",
